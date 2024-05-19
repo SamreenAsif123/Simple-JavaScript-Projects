@@ -2,9 +2,8 @@
 
 This is a simple JavaScript project that converts temperatures from Kelvin to Celsius, Fahrenheit, and Newton.
 
-<b> How to Use </b>
+<b>  Use </b>
 
-- The temperature in Kelvin is hardcoded in the script.
 - Run the script to see the temperature conversions logged to the console.
 
 <b> Example </b>
