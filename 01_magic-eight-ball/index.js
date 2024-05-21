@@ -1,5 +1,5 @@
 // Step 1: Greet the user by name
-let userName = prompt("");
+let userName = prompt("What's your name?");
 
 userName ? console.log(`Hello, ${userName}!`) : console.log("Hello!");
 
