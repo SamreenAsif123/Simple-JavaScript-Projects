@@ -1,16 +1,9 @@
-<b> Temperature Converter JS </b>
+# Simple JavaScript Projects
 
-This is a simple JavaScript project that converts temperatures from Kelvin to Celsius, Fahrenheit, and Newton.
+Welcome to my collection of simple JavaScript projects! This repository contains various small projects that I've created to practice and demonstrate my skills in JavaScript. I will be adding new projects from time to time, so stay tuned for more updates.
 
-<b>  Use </b>
 
-- Run the script to see the temperature conversions logged to the console.
+## Feedback and Suggestions
+If you have any advice on the projects or suggestions for new projects to try, please let me know at [studyproject870@gmail.com](mailto:studyproject870@gmail.com).
 
-<b> Example </b>
-
-Input: `293 K`
-
-Output:
-- Temperature in Celsius = 20
-- Temperature in Fahrenheit = 68
-- Temperature in degrees Newton = 6
+Thank you for visiting my repository.
